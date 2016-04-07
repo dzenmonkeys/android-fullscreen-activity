@@ -35,7 +35,7 @@ public class FullscreenActivity extends AppCompatActivity {
 
         mContentView.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "Fullscreen activity by frankymad.", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Fullscreen activity by frankymad from (d)zenMonkeys.", Toast.LENGTH_LONG).show();
             }
         });
     }
